@@ -1,4 +1,4 @@
-# 최초 설문조사
+# 설문조사 (매주)
 https://goo.gl/forms/yKEOtNCUae8KCCq43
 
 # 우리는 왜 대학에 가는가? (동영상)
