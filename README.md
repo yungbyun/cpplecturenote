@@ -1,3 +1,6 @@
+# 대학생 ML 캠프
+https://github.com/UniversityMLCampJeju/2019
+
 # 설문조사 (매 시간 끝날 때 쯤)
 https://goo.gl/forms/yKEOtNCUae8KCCq43
 
